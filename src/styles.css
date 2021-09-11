@@ -1,3 +1,29 @@
-body {
+/* body {
   font-family: sans-serif;
+} */
+.input-area {
+  width: 400px;
+  height: 30px;
+  padding: 8px;
+  margin: 8px;
+}
+
+.incomplete-area {
+  background-color: lightgoldenrodyellow;
+  width: 400px;
+  min-height: 200px;
+  padding: 8px;
+  margin: 8px;
+}
+
+.complete-area {
+  background-color: lightgrey;
+  width: 400px;
+  min-height: 200px;
+  padding: 8px;
+  margin: 8px;
+}
+
+.item {
+  display: flex;
 }
